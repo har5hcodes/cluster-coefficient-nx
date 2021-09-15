@@ -1,2 +1,2 @@
 # cluster-coefficient-nx
-Calculating the clustering coefficient of Nodes in a given graph using Networkx python package
+Finding the Clustering Coefficient(CC) of Nodes in a network using Networkx python package
