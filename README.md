@@ -9,4 +9,5 @@ For finding very connected individuals in the below sample network/group using n
 
 And the results are shown below:
 ![image](https://user-images.githubusercontent.com/86284121/133541081-5f5a2f9d-c517-40eb-b2f4-1e3f003d6274.png)
+
 It's found that the Node D and Node Q are very connected.
